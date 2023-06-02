@@ -1,0 +1,5 @@
+train: /content/datasets/People/data/train/images
+val: /content/datasets/People/data/val/images
+
+nc: 2
+names: ['background', 'person']

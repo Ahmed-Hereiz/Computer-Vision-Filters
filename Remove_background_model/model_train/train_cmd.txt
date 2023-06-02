@@ -1,0 +1,9 @@
+git clone https://github.com/ultralytics/yolov5.git
+
+%cd yolov5/
+
+pip install -r requirements.txt
+
+wget https://github.com/ultralytics/yolov5/releases/download/v6.0/yolov5s.pt
+
+python train.py --img 416 --batch 8 --epochs 50 --data /content/datasets/People/data/datasets.yaml --weights /content/yolov5/yolov5s.pt
