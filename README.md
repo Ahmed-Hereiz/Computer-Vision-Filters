@@ -15,7 +15,7 @@
 <img src="https://github.com/Ahmed-Hereiz/Computer-Vision-Filters/blob/main/Images/Count_number_of_people.png" alt="Image Description" width="350" height="300">
 
 ## Neural style Transfer : 
-### Here I trained a neural net for style transfer, and this was it's outputs:
+### Here I trained a neural net for style transfer, and this was it's outputs on the images:
 <div style="display: flex; justify-content: flex-start;">
     <img src="https://github.com/Ahmed-Hereiz/Computer-Vision-Filters/blob/main/Style_Transfer_model/Result_images/image_0epochs.png" alt="Image Description" width="180" height="240">
     <img src="https://github.com/Ahmed-Hereiz/Computer-Vision-Filters/blob/main/Style_Transfer_model/Result_images/image_1000epochs.png" alt="Image Description" width="180" height="240">
