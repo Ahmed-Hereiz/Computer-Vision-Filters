@@ -1,6 +1,6 @@
 # Computer-Vision-Filters
 
-## In this projects I made many fun filters to play with using by training nueral nets and Image processing.
+## In this projects I made many fun filters to play with, by training neural nets and using image processing.
 
 ### In this project there is 5 filters to choose from which are :
 > - Count Number of people <br>
